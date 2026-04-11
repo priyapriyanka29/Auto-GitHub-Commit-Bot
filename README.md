@@ -10,7 +10,7 @@ A Python script that automatically creates commits and pushes them to a GitHub r
 * Updates file with timestamp
 * Maintains GitHub activity
 
-## 🛠️ Tech Used
+## 🛠️ Tech Used 
 
 * Python
 * Git
