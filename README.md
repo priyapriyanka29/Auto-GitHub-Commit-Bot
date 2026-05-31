@@ -6,7 +6,7 @@ A Python script that automatically creates commits and pushes them to a GitHub r
 
 ## 🚀 Features
 
-* Auto commit and push
+* Auto commit and push     
 * Updates file with timestamp
 * Maintains GitHub activity
 
@@ -14,5 +14,5 @@ A Python script that automatically creates commits and pushes them to a GitHub r
      
 * Python
 * Git                         
-
+ 
      
