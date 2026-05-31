@@ -13,6 +13,6 @@ A Python script that automatically creates commits and pushes them to a GitHub r
 ## 🛠️ Tech Used 
      
 * Python
-* Git
+* Git                         
 
      
