@@ -8,7 +8,7 @@ A Python script that automatically creates commits and pushes them to a GitHub r
 
 * Auto commit and push       
 * Updates file with timestamp 
-* Maintains GitHub activity
+* Maintains GitHub activity   
 
 ## 🛠️ Tech Used         
              
